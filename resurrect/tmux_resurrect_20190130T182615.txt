@@ -1,0 +1,21 @@
+pane	0	0	:zsh	1	:*	0	:/Users/dipta10	1	zsh	:
+pane	main	0	:ContestSol	1	:*	0	:/Users/dipta10/Dropbox/programming diary/code	0	zsh	:
+pane	main	0	:ContestSol	1	:*	1	:/Users/dipta10/Dropbox/programming diary/code	0	zsh	:
+pane	main	0	:ContestSol	1	:*	2	:/Users/dipta10/Dropbox/programming diary/code	1	zsh	:
+pane	main	1	:programming	0	:#-	0	:/Users/dipta10/Dropbox/programming diary/code	1	vifm	:vifm .
+pane	main	1	:programming	0	:#-	1	:/Users/dipta10/Dropbox/programming diary/solved problems	0	vifm	:vifm .
+pane	main	1	:programming	0	:#-	2	:/Users/dipta10/Dropbox/programming diary/code	0	zsh	:
+pane	main	2	:git	0	:#	0	:/Users/dipta10/Dropbox/practice/git/original	0	zsh	:
+pane	main	2	:git	0	:#	1	:/Users/dipta10/Dropbox/practice/git/original	0	zsh	:
+pane	main	2	:git	0	:#	2	:/Users/dipta10/Dropbox/practice/git/clone	1	zsh	:
+pane	main	3	:tutorial	0	:#	0	:/Users/dipta10/Dropbox/programming diary/tutorialProb	0	zsh	:
+pane	main	3	:tutorial	0	:#	1	:/Users/dipta10/Dropbox/programming diary/tutorialProb	1	zsh	:
+pane	main	4	:vim	0	:#	0	:/Users/dipta10/Dropbox/programming diary	0	zsh	:
+pane	main	4	:vim	0	:#	1	:/Users/dipta10/Dropbox/programming diary/pdf/editorials	1	zsh	:
+window	0	0	1	:*	b73e,191x52,0,0,1
+window	main	0	1	:*	1e15,97x52,0,0{64x52,0,0[64x42,0,0,2,64x9,0,43,16],32x52,65,0,3}
+window	main	1	0	:#-	ada3,97x52,0,0{48x52,0,0,5,48x52,49,0[48x33,49,0,6,48x18,49,34,7]}
+window	main	2	0	:#	cbf2,97x52,0,0{50x52,0,0,8,46x52,51,0[46x27,51,0,9,46x24,51,28,10]}
+window	main	3	0	:#	8353,97x52,0,0{65x52,0,0,11,31x52,66,0,12}
+window	main	4	0	:#	73d0,97x52,0,0{71x52,0,0,13,25x52,72,0,14}
+state	main	0

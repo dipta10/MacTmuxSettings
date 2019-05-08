@@ -1,0 +1,21 @@
+pane	0	0	:zsh	1	:*	0	:/Users/dipta10	1	zsh	:
+pane	main	0	:swift	0	:	0	:/Users/dipta10/Dropbox/practice	0	zsh	:
+pane	main	0	:swift	0	:	1	:/Users/dipta10/Dropbox/practice	0	zsh	:
+pane	main	0	:swift	0	:	2	:/Users/dipta10/Dropbox/practice	1	zsh	:
+pane	main	1	:programming	0	:	0	:/Users/dipta10/Dropbox/programming diary/algorithm template	0	zsh	:
+pane	main	1	:programming	0	:	1	:/Users/dipta10/Dropbox/programming diary/code	0	zsh	:
+pane	main	1	:programming	0	:	2	:/Users/dipta10/Dropbox/programming diary/code	1	zsh	:
+pane	main	2	:git	0	:	0	:/Users/dipta10/Dropbox/practice/git/original	0	zsh	:
+pane	main	2	:git	0	:	1	:/Users/dipta10/Dropbox/practice/git/original	0	zsh	:
+pane	main	2	:git	0	:	2	:/Users/dipta10/Dropbox/practice/git/clone	1	zsh	:
+pane	main	3	:tutorial	0	:-	0	:/Users/dipta10/Dropbox/programming diary/tutorialProb	0	zsh	:
+pane	main	3	:tutorial	0	:-	1	:/Users/dipta10/Dropbox/programming diary/tutorialProb	1	zsh	:
+pane	main	4	:vim	1	:*	0	:/Users/dipta10/Dropbox/programming diary	1	vifm	:vifm .
+pane	main	4	:vim	1	:*	1	:/Users/dipta10/Dropbox/programming diary	0	zsh	:
+window	0	0	1	:*	c33e,191x55,0,0,1
+window	main	0	0	:	2999,191x55,0,0{99x55,0,0,2,91x55,100,0[91x35,100,0,3,91x19,100,36,4]}
+window	main	1	0	:	4893,191x55,0,0{95x55,0,0,5,95x55,96,0[95x35,96,0,6,95x19,96,36,7]}
+window	main	2	0	:	82f6,191x55,0,0{97x55,0,0,8,93x55,98,0[93x29,98,0,9,93x25,98,30,10]}
+window	main	3	0	:-	4866,191x55,0,0{112x55,0,0,11,78x55,113,0,12}
+window	main	4	1	:*	61b9,191x55,0,0{118x55,0,0,13,72x55,119,0,14}
+state	main	0
