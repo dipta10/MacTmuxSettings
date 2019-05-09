@@ -7,13 +7,13 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install tmux
 ```
 
-Kill all the session (if any):
+Kill all sessions (if any):
 
 ```
 pkill -f tmux
 ```
 
-Now just clone the repository
+Now clone the repository
 
 ```
 git clone https://github.com/dipta10/MacTmuxSettings.git ~/.tmux
